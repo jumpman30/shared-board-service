@@ -1,0 +1,13 @@
+com/lapr4/sharedboardservice/connection/ConnectionProvider.class
+com/lapr4/sharedboardservice/repository/UserSessionRepository.class
+com/lapr4/sharedboardservice/session/UserSession.class
+com/lapr4/sharedboardservice/consumers/SharedBoardConsumer.class
+com/lapr4/sharedboardservice/SharedBoardServiceApplication.class
+com/lapr4/sharedboardservice/connection/ConnectionProviderConfig.class
+com/lapr4/sharedboardservice/services/AuthService.class
+com/lapr4/sharedboardservice/interfaces/CommandStrategy.class
+com/lapr4/sharedboardservice/connection/ConnectionHandler.class
+com/lapr4/sharedboardservice/enums/Code.class
+com/lapr4/sharedboardservice/services/TestConnectionService.class
+com/lapr4/sharedboardservice/session/UserSessionConfig.class
+com/lapr4/sharedboardservice/dtos/Message.class

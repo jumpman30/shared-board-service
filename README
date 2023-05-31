@@ -1,0 +1,9 @@
+This application is intended to run separately from the e-course app. It will be deployed as
+a docker container to kubernets in order to receive request from any client.
+
+To test locally you can build the docker container by executing 'docker build -t {image-name} .' and
+then running the container with 'docker run -p 6668:6668 {image-name}'.
+The last will expose the port 6668 locally so you can send tcp requests directly to it by using the nc command: 'nc localhost 6668'.
+
+From now we are just opening a socket in port 6668, but this can change as we discuss next sprint's functionalities.
+

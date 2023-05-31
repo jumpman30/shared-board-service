@@ -1,0 +1,13 @@
+/Users/franciscopereira/Desktop/UNI/shared-board-service/src/main/java/com/lapr4/sharedboardservice/enums/Code.java
+/Users/franciscopereira/Desktop/UNI/shared-board-service/src/main/java/com/lapr4/sharedboardservice/session/UserSession.java
+/Users/franciscopereira/Desktop/UNI/shared-board-service/src/main/java/com/lapr4/sharedboardservice/repository/UserSessionRepository.java
+/Users/franciscopereira/Desktop/UNI/shared-board-service/src/main/java/com/lapr4/sharedboardservice/consumers/SharedBoardConsumer.java
+/Users/franciscopereira/Desktop/UNI/shared-board-service/src/main/java/com/lapr4/sharedboardservice/SharedBoardServiceApplication.java
+/Users/franciscopereira/Desktop/UNI/shared-board-service/src/main/java/com/lapr4/sharedboardservice/session/UserSessionConfig.java
+/Users/franciscopereira/Desktop/UNI/shared-board-service/src/main/java/com/lapr4/sharedboardservice/interfaces/CommandStrategy.java
+/Users/franciscopereira/Desktop/UNI/shared-board-service/src/main/java/com/lapr4/sharedboardservice/connection/ConnectionProvider.java
+/Users/franciscopereira/Desktop/UNI/shared-board-service/src/main/java/com/lapr4/sharedboardservice/connection/ConnectionProviderConfig.java
+/Users/franciscopereira/Desktop/UNI/shared-board-service/src/main/java/com/lapr4/sharedboardservice/dtos/Message.java
+/Users/franciscopereira/Desktop/UNI/shared-board-service/src/main/java/com/lapr4/sharedboardservice/services/AuthService.java
+/Users/franciscopereira/Desktop/UNI/shared-board-service/src/main/java/com/lapr4/sharedboardservice/connection/ConnectionHandler.java
+/Users/franciscopereira/Desktop/UNI/shared-board-service/src/main/java/com/lapr4/sharedboardservice/services/TestConnectionService.java

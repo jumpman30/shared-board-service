@@ -1,0 +1,21 @@
+# Created at 2023-06-01T00:20:50.832
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: null
+java.io.EOFException
+	at java.base/java.io.DataInputStream.readInt(DataInputStream.java:398)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+
+# Created at 2023-06-01T00:20:50.833
+Unexpected IOException with stream: 2023-06-01T00:20:50.828+01:00  INFO 58554 --- [ionShutdownHook] o.s.i.endpoint.EventDrivenConsumer       : Removing {logging-channel-adapter:_org.springframework.integration.errorLogger} as a subscriber to the 'errorChannel' channel
+
+
+# Created at 2023-06-01T00:20:50.833
+Unexpected IOException with stream: 2023-06-01T00:20:50.833+01:00  INFO 58554 --- [ionShutdownHook] o.s.i.channel.PublishSubscribeChannel    : Channel 'application.errorChannel' has 0 subscriber(s).
+
+
+# Created at 2023-06-01T00:20:50.833
+Unexpected IOException with stream: 2023-06-01T00:20:50.833+01:00  INFO 58554 --- [ionShutdownHook] o.s.i.endpoint.EventDrivenConsumer       : stopped bean '_org.springframework.integration.errorLogger'
+
+
